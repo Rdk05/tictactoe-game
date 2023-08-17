@@ -1,3 +1,4 @@
+
 import Square from "./Square";
 
 const Board = () => {
